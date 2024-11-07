@@ -4,8 +4,11 @@ Three-dimensional (3D) deformable image registration is a fundamental technique 
 
 ### **Prerequisites**
 Python 3.5.2+; 
-Pytorch 1.3.0 - 1.7.0; 
+
+Pytorch 1.3.0 - 1.7.0;
+
 NumPy; 
+
 NiBabel
 
 This code has been tested with Pytorch 1.6.0 and GTX1080TI GPU.
