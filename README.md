@@ -21,7 +21,7 @@ This code has been tested with Pytorch 1.6.0 and GTX1080TI GPU.
 
 ### **Train your own model**
 You may adjust the size of the model and the size of image. 
-python Train.py to train your own model. 
+"python Train.py" to train your own model. 
 
 ### Publication
 
