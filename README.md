@@ -13,8 +13,8 @@ This code has been tested with Pytorch 1.6.0 and GTX1080TI GPU.
 
 ### **Main Pipeline**
 
-![image.png](Figs/overxiew.png)
-![image.png](Figs/network.png)
+![image.png](Figs/overview.png)
+![image.png](Figs/Network.png)
 
 ### **Train your own model**
 You may adjust the size of the model and the size of image. 
